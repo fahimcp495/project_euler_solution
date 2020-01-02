@@ -14,3 +14,4 @@ int main(){
 /*
 input: 10 ---> output: 23
 input: 1000 ---> output: 233168
+*/
